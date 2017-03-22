@@ -3,6 +3,8 @@
 
 A very simple wrapper for [qpdf](http://qpdf.sourceforge.net/) which is a content-preserving transformations on PDF files. It includes encrypting and decrypting PDF with AES 256, AES 128, RC4 (128 & 40) encryption algorithms.
 
+TODO: needs to be rewritten
+
 ## Dependencies
 * [Node.js](http://nodejs.org/)
 * [qpdf](http://qpdf.sourceforge.net/)
